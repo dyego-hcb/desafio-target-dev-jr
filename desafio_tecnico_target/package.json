@@ -1,0 +1,12 @@
+{
+  "name": "desafio_tecnico_target",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "xml2js": "^0.6.2"
+  }
+}

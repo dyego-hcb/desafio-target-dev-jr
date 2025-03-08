@@ -1,0 +1,33 @@
+# Dependências do Node.js
+/node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados locais
+*.sqlite
+*.db
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de build
+/build
+/dist
+
+# Arquivos de configuração de ambiente (pode conter tokens, senhas, etc)
+.env
+
+# Diretórios temporários de IDEs
+.vscode/
+.idea/
+
+# Arquivos específicos do sistema operacional
+*.swp
+*~
